@@ -1,1 +1,1 @@
-bot: python3 sad_py.py
+worker: python main.py $PORT
